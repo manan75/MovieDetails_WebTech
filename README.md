@@ -75,6 +75,12 @@ $OMDB_API_KEY = "YOUR_OMDB_API_KEY"; // Replace with your API key
 
 <img width="816" height="315" alt="Screenshot 2025-11-11 190411" src="https://github.com/user-attachments/assets/c00c45a1-09c7-45e0-a9cf-33667b02282d" />
 
+<img width="1875" height="969" alt="Screenshot 2025-11-11 190425" src="https://github.com/user-attachments/assets/29dad936-9c1b-455d-983f-5a28ec7cd578" />
+
+<img width="1167" height="795" alt="Screenshot 2025-11-11 190450" src="https://github.com/user-attachments/assets/672d23ca-6dfe-466a-a7a9-58e26cab6d70" />
+
+
+
 📜 License
 
 This project is open-source and free to modify & use.
